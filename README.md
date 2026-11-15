@@ -1,1 +1,1 @@
-# AI-AI-Healthcare-Appointment-Assistant
+# AI-Healthcare-Appointment-Assistant
